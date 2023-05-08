@@ -67,7 +67,7 @@ I am a Frontend Developer and ML enthusiast <img src="https://media.giphy.com/me
   <a href="linkedin.com/in/aman-srivastava-b60594245/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/chirantan_jain" target="_blank">
+  <a href="https://www.instagram.com/agentaman0/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
