@@ -64,7 +64,7 @@ I am a Frontend Developer and ML enthusiast <img src="https://media.giphy.com/me
   <a href="https://www.github.com/AmanSCoder" target="_blank">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="linkedin.com/in/aman-srivastava-b60594245/" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-srivastava-b60594245/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/agentaman0/" target="_blank">
