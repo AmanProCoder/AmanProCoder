@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/jainchirantan/" target="_blank">
+  <a href="linkedin.com/in/aman-srivastava-b60594245/" target="_blank">
     <img src="https://media.giphy.com/media/8kERJ466SJRKpaUf5S/giphy.gif" width="100"/>
   </a>
   <br></br>
