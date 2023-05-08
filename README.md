@@ -33,22 +33,22 @@ I am a Frontend Developer and ML enthusiast <img src="https://media.giphy.com/me
 
 ### :hammer_and_wrench: Learning and working with :
 <div>
-  <a href="https://www.java.com/en/" title="Java"><img src="./icon/java.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.python.org/" title="Python"><img src="./icon/python.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
-  <a href="https://nextjs.org/" title="Nextjs"><img src="./icon/next.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/></a>&nbsp;
-  <a href="https://reactjs.org/" title="Reactjs"><img src="./icon/react.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
-  <a href="https://jupyter.org/" title="Jupyter"><img src="./icon/jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.tensorflow.org/" title="Tensorflow"><img src="./icon/tensorflow.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/></a>&nbsp;
-  <a href="https://numpy.org/" title="Numpy"><img src="./icon/numpy.svg" title="Numpy" alt="Numpy" width="40" height="40"/></a>&nbsp;
-  <a href="https://pandas.pydata.org/" title="Pandas"><img src="./icon/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="Html"><img src="./icon/html.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="Css"><img src="./icon/css.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.javascript.com/" title="Js"><img src="./icon/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.tutorialspoint.com/cprogramming/index.htm" title="C"><img src="./icon/c.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
-  <a href="https://cplusplus.com/doc/tutorial/" title="Cpp"><img src="./icon/cpp.svg" title="Cpp" alt="Cpp" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mysql.com/" title="Mysql"><img src="./icon/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
-  <a href="https://github.com/" title="Github"><img src="./icon/github.svg" title="Github" alt="Github" width="40" height="40"/></a>&nbsp;
-  <a href="https://git-scm.com/" title="Git"><img src="./icon/git.svg" title="Git" **alt="Git" width="40" height="40"/></a>
+  <a href="https://www.java.com/en/" title="Java"><img src="./images/java.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="./images/python.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
+  <a href="https://nextjs.org/" title="Nextjs"><img src="./images/next.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/></a>&nbsp;
+  <a href="https://reactjs.org/" title="Reactjs"><img src="./images/react.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
+  <a href="https://jupyter.org/" title="Jupyter"><img src="./images/jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.tensorflow.org/" title="Tensorflow"><img src="./images/tensorflow.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/></a>&nbsp;
+  <a href="https://numpy.org/" title="Numpy"><img src="./images/numpy.svg" title="Numpy" alt="Numpy" width="40" height="40"/></a>&nbsp;
+  <a href="https://pandas.pydata.org/" title="Pandas"><img src="./images/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="Html"><img src="./images/html.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="Css"><img src="./images/css.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.javascript.com/" title="Js"><img src="./images/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.tutorialspoint.com/cprogramming/index.htm" title="C"><img src="./images/c.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
+  <a href="https://cplusplus.com/doc/tutorial/" title="Cpp"><img src="./images/cpp.svg" title="Cpp" alt="Cpp" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.mysql.com/" title="Mysql"><img src="./images/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://github.com/" title="Github"><img src="./images/github.svg" title="Github" alt="Github" width="40" height="40"/></a>&nbsp;
+  <a href="https://git-scm.com/" title="Git"><img src="./images/git.svg" title="Git" **alt="Git" width="40" height="40"/></a>
 </div>
 
 ---
