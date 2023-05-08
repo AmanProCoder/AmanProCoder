@@ -20,13 +20,12 @@
 ### <img src="https://media.giphy.com/media/l4FGtP1BqMzxz8Gbu/giphy.gif" height="40px"/> Few things About Me :
 I am a Frontend Developer and ML enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 📘 I'm a Second year student at Vellore Institute of Technology(VIT), Vellore.
+- 📘 I'm a Third year student at Vellore Institute of Technology(VIT), Vellore.
 
 - 🌱 Exploring Machine Learning.
 
 - 🎧 In my free time, I <s> code the whole day </s> &nbsp; listen to music and play games.
 
-- 📖 Have some novel suggestions? Ping me up!
 <br></br>
 
 ---
