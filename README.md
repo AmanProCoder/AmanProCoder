@@ -35,7 +35,7 @@ I am a Frontend Developer and ML enthusiast <img src="https://media.giphy.com/me
 <div>
   <a href="https://www.java.com/en/" title="Java"><img src="./images/java.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org/" title="Python"><img src="./images/python.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
-  <a href="https://nextjs.org/" title="Nextjs"><img src="./images/next.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/></a>&nbsp;
+  <!--<a href="https://nextjs.org/" title="Nextjs"><img src="./images/next.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/></a>&nbsp;-->
   <a href="https://reactjs.org/" title="Reactjs"><img src="./images/react.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href="https://jupyter.org/" title="Jupyter"><img src="./images/jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
   <a href="https://www.tensorflow.org/" title="Tensorflow"><img src="./images/tensorflow.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/></a>&nbsp;
