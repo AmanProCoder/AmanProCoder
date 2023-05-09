@@ -42,9 +42,9 @@ I am a Frontend Developer and ML enthusiast <img src="https://media.giphy.com/me
   <a href="https://www.tensorflow.org/" title="Tensorflow"><img src="./images/tensorflow.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/></a>&nbsp;
   <a href="https://numpy.org/" title="Numpy"><img src="./images/numpy.svg" title="Numpy" alt="Numpy" width="40" height="40"/></a>&nbsp;
   <a href="https://pandas.pydata.org/" title="Pandas"><img src="./images/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="Html"><img src="./images/html.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
+  <!--<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="Html"><img src="./images/html.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="Css"><img src="./images/css.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.javascript.com/" title="Js"><img src="./images/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.javascript.com/" title="Js"><img src="./images/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;-->
   <a href="https://www.mysql.com/" title="Mysql"><img src="./images/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href="https://github.com/" title="Github"><img src="./images/github.svg" title="Github" alt="Github" width="40" height="40"/></a>&nbsp;
   <a href="https://git-scm.com/" title="Git"><img src="./images/git.svg" title="Git" **alt="Git" width="40" height="40"/></a>
