@@ -47,7 +47,7 @@ I am a Frontend Developer and ML enthusiast <img src="https://media.giphy.com/me
   <a href="https://www.javascript.com/" title="Js"><img src="./images/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;-->
   <a href="https://www.mysql.com/" title="Mysql"><img src="./images/mysql.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href="https://github.com/" title="Github"><img src="./images/github.svg" title="Github" alt="Github" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.ros.org/" title="ROS"><img src="./images/ROS.png" title="ROS" alt="ROS" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.ros.org/" title="ROS"><img src="./images/ROS-l.png" title="ROS" alt="ROS" width="40" height="40"/></a>&nbsp;
   <a href="https://www.docker.com/" title="Docker"><img src="./images/docker.svg" title="Docker"  alt="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://git-scm.com/" title="Git"><img src="./images/git.svg" title="Git" **alt="Git" width="40" height="40"/></a>
 </div>
